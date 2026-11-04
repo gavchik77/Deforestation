@@ -1,32 +1,20 @@
-# Amazon Futures — Visual Checkpoints, Tipping Points & Elections (DEV1102)
+# Amazon Futures — Version 7: Guided Simulation (DEV1102)
 
-A self-contained university teaching simulation of a **fictional Amazon landscape**. No sign-in, API, dependencies, or backend required. Designed to be published free via GitHub Pages.
+A self-contained university game of Amazon deforestation, ecological feedback and elections. All ecological and political model parameters are **illustrative classroom assumptions**, not Amazon forecasts.
 
-## Publish
+## New in v7
+- 5-step interactive tour on first launch (no video or internet required).
+- Rules and goals available anytime.
+- Clickable **i** term explanations beside inputs, indicators and charts.
+- Full glossary describing scores and controls.
+- Year 5/10/15/20 illustrated regional checkpoints retained from v6.
+- Two independent Year 20 assessments, electoral and ecological.
 
-Upload `index.html` into the root of your public GitHub repository. In **Settings → Pages**, choose **Deploy from branch → main / (root)**. Keep the name `index.html` for GitHub Pages.
+## Install on GitHub Pages
+Extract these files and upload `index.html` and `README.md` to the root of your existing `amazon-futures` repository, replacing the old copies. For a new repository, enable Settings → Pages → Deploy from branch → main / (root). No dependencies are required.
 
-## How to play
+## Student instructions
+Launch the game and follow the five-step guided tour. Distribute up to 10 points among forest enforcement, restoration/fire prevention, agricultural productivity and community services each year. Click Implement policy and read the news bulletin. After every fifth year, review the regional illustration and election result. Continue until Year 20 unless defeated; then compare political and sustainability scores.
 
-Make annual policy decisions across 20 years using 10 points in four categories: forest enforcement, restoration/fire prevention, sustainable farming, community investment. Elections are held every five years. Weak mandates can reserve one point for political damage control and election defeat can end the administration.
-
-**New in version 5:** irreversible-looking *delays* (heat and soil legacy), threshold-related increases in fire damage and decreases in restoration efficiency at forest cover below 60, 45, and 30 units, and **separate** political and sustainability final scores. No simulated threshold is a scientifically established threshold for the actual Amazon. All numerical relationships and benchmarks are illustrative.
-
-Use the **Export CSV** button to collect each team's result and compare strategies in class. The site stores no personal data and results are downloaded locally.
-
-## Suggested classroom debrief
-
-1. Were you able to stay in office while forest cover continued to decline?
-2. Which policies produced fast gains but later ecological costs?
-3. What happened to restoration efficiency after a threshold was crossed?
-4. Did your political score agree with your environmental score?
-
-Designed for discussion, **not a calibrated scientific forecast**.
-
-
-## New in Version 6
-
-- Illustrated 5-year regional snapshot screens after Years 5, 10, 15 and 20.
-- Visual summaries of prosperity, electorate support, forest trajectory and fire pressure.
-- Stylised region scene showing forest, farmland, degraded land and visible fire stress.
-- Modal Continue button explicitly enabled for smoother play.
+## Classroom discussion
+What happened after the forest declined? Were restoration policies effective immediately? Can an administration stay popular while ecosystems deteriorate? Why do short-term political and long-term ecological objectives diverge?
