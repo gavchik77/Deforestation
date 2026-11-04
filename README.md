@@ -1,20 +1,14 @@
-# Amazon Futures — Version 7: Guided Simulation (DEV1102)
+# Amazon Futures — Version 8
 
-A self-contained university game of Amazon deforestation, ecological feedback and elections. All ecological and political model parameters are **illustrative classroom assumptions**, not Amazon forecasts.
+A fictional university teaching simulation for DEV1102. Run `index.html` in any browser or host the files on GitHub Pages.
 
-## New in v7
-- 5-step interactive tour on first launch (no video or internet required).
-- Rules and goals available anytime.
-- Clickable **i** term explanations beside inputs, indicators and charts.
-- Full glossary describing scores and controls.
-- Year 5/10/15/20 illustrated regional checkpoints retained from v6.
-- Two independent Year 20 assessments, electoral and ecological.
+## New in V8
+- Four fictional party avatars with distinct campaign manifestos and binding annual spending ranges.
+- Choose a party before Year 1. Party switching is locked once a run begins.
+- Manifesto-alignment feedback during elections in Years 5, 10, 15 and 20.
+- All existing ecological feedback, elections, checkpoint illustrations, glossary, and guided introduction remain.
 
-## Install on GitHub Pages
-Extract these files and upload `index.html` and `README.md` to the root of your existing `amazon-futures` repository, replacing the old copies. For a new repository, enable Settings → Pages → Deploy from branch → main / (root). No dependencies are required.
+## Deploy
+Replace your GitHub Pages repository root `index.html` and `README.md` with these files. Pages uses the `main` branch and root directory.
 
-## Student instructions
-Launch the game and follow the five-step guided tour. Distribute up to 10 points among forest enforcement, restoration/fire prevention, agricultural productivity and community services each year. Click Implement policy and read the news bulletin. After every fifth year, review the regional illustration and election result. Continue until Year 20 unless defeated; then compare political and sustainability scores.
-
-## Classroom discussion
-What happened after the forest declined? Were restoration policies effective immediately? Can an administration stay popular while ecosystems deteriorate? Why do short-term political and long-term ecological objectives diverge?
+**Important:** Parties, election effects, ecological thresholds and scores are illustrative teaching constructs, not factual claims about parties, Brazil, or Amazon ecosystem thresholds.
